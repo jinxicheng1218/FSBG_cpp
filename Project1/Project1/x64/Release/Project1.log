@@ -1,0 +1,87 @@
+﻿cl : 命令行  warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+cl : 命令行  warning D9002: 忽略未知选项“/arch:SSE2”
+  mainFunc.cpp
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(170,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(177,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(305,31): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(305,25): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(305,19): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(305,13): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(391,38): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(391,32): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(391,26): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(391,20): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(399,10): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(411,36): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(411,25): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(411,19): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(435,11): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“unsigned __int64”
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(435,11): message : 请考虑在格式字符串中使用“%zd”
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(513,34): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(513,24): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(513,16): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(520,34): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(520,24): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(520,16): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+  正在生成代码
+  0 of 349 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Project1.vcxproj -> D:\作品2022+2023\c++\流体模拟\Project1\x64\Release\Project1.exe

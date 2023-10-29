@@ -1,0 +1,101 @@
+﻿  mainFunc.cpp
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(6,19): warning C4305: “初始化”: 从“double”到“float”截断
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(7,21): warning C4305: “初始化”: 从“double”到“float”截断
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(65,20): warning C4305: “=”: 从“double”到“float”截断
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(83,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(90,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(99,14): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(106,14): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(192,31): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(192,25): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(192,19): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(192,13): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(215,1): warning C4305: “-=”: 从“double”到“_Ty”截断
+          with
+          [
+              _Ty=float
+          ]
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(217,1): warning C4305: “+=”: 从“double”到“_Ty”截断
+          with
+          [
+              _Ty=float
+          ]
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(270,38): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(270,32): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(270,26): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(270,20): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(282,36): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(282,25): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(282,19): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(340,24): warning C4305: “初始化”: 从“double”到“_Ty”截断
+          with
+          [
+              _Ty=float
+          ]
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(343,22): warning C4305: “初始化”: 从“double”到“_Ty”截断
+          with
+          [
+              _Ty=float
+          ]
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(346,23): warning C4305: “初始化”: 从“double”到“_Ty”截断
+          with
+          [
+              _Ty=float
+          ]
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(349,21): warning C4305: “初始化”: 从“double”到“_Ty”截断
+          with
+          [
+              _Ty=float
+          ]
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(372,34): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(372,24): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+D:\作品2022+2023\c++\流体模拟\Project1\Project1\mainFunc.cpp(372,16): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+  Project1.vcxproj -> D:\作品2022+2023\c++\流体模拟\Project1\x64\Debug\Project1.exe
